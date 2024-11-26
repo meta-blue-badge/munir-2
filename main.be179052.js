@@ -9851,7 +9851,7 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "https://firebasestorage.googleapis.com/v0/b/chatapp-3655a.appspot.com/o/detailed_video.mp4?alt=media&token=03fe855f-089d-428a-887d-0f9d371fbb91",
+                                        src: "https://cdn.glitch.global/ffd6bc0c-73ac-4bc3-87af-b34c18da3d3e/detailed_viedo.mp4?v=1732631783967",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
